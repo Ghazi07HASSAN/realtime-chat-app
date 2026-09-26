@@ -1,0 +1,7 @@
+{
+  "name": "realtime-chat-root",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server/index.js"
+  }
+}
